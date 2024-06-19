@@ -1,8 +1,8 @@
 /***********************************************************************
 * SerialPortTest.cpp
-* Copyright (C) 2024 Kiyoshi Irie
 * Copyright (C) 2024 Satoshi Inoue
 * Copyright (C) 2024 CIT Brains
+* This software is based on KSerialPort Copyright (C) 2012 Kiyoshi Irie
 * ~~~~~~~~
 * This Source Code Form is subject to the terms of the Mozilla Public
 * License, v. 2.0. If a copy of the MPL was not distributed with this
